@@ -1,4 +1,4 @@
 This is a change inserted from branch1
-
+Master Insertion
 New line from Branch1
 
